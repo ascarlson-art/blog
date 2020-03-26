@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Process
+date:   2020-03-09 00:00:00 +0000
+image:  process.jpg
+tags:   [Process]
+---
+
+Whenever I am about to start a specific piece, I do all that I can to make sure the subject is one I have already observed in real life to some extent. I feel it’s so much better than finding images that belong to someone else of an animal you’ve never had the chance to see in real life. This can of course be difficult if travel is limited; so this is why whenever I go to zoos, aquariums or (fingers crossed) get the rare chance to travel somewhere far away, I take an absurd amount of photos of any animal I see in anticipation of storing and using the photos as reference for later. I have files taking up half my hard drive filled with just photos of animals or plants I found interesting. Even after taking a sufficient amount of photos, I feel it necessary to put the camera away and just observe the animal for a time, seeing how it behaves and interacts with its environment.
+
+After I’ve gathered enough information, I go through my vast collection of reference photos and select the one that best captures what I’ve learned about my subject through observation. Some of the photos aren’t of the greatest quality, which is why a little simplification and embellishment may be necessary when transferring the photo into sketch. 
+
+![]({{site.baseurl}}/img/process/real.jpg)
+
+This is a reference photo of a toucan I took on a trip to Foz do Iguaçu in Brazil. The bird was preening at the time so I was able to get a nice dynamic pose from it (this only took about five million consecutive snapshots to get a nice image that wasn’t blurry or difficult to understand). This toucan lived in a bird sanctuary and was already quite accustomed to the presence of humans, so being able to sit and watch from a close distance helped me to understand its calm and confident demeanor. I then transferred this image into the following sketch to use for my “Toucans of Southern Brazil” piece, you can see the rest of the photos and sketches here. I enjoy the sketching part of my process quite a lot, because it requires attention and problem-solving to understand what it is you’re seeing in the photo and translating that into something someone else is able to understand as well.
+
+![]({{site.baseurl}}/img/process/sketch.jpg)
+
+Depending on what the medium of the final piece is to be, I then transfer it to whatever surface the final will be on; in the case of the toucan, I scanned the sketch into the computer to make it into a digital piece. Admittedly there are some media I am still learning, so the process can vary in efficiency, but Adobe Illustrator was my introduction to digital art so I was quite comfortable with it by the time I was putting this piece together. The final piece pictured below includes two other types of toucans that I used the same process stated above in creating.
+
+![]({{site.baseurl}}/img/process/final.jpg)
+
+As of right now I am still a student, so I am learning new and better ways to create every day. This post outlines what my process is at the moment, but as I grow and develop as an artist things are bound to change. I love the work that I do and am very excited whenever I get the chance to learn new things and expand my horizons as a wildlife illustrator.

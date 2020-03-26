@@ -1,0 +1,26 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer-bottom">
+          <div class="copyright">
+            <p>Copyright &copy; Amelia Carlson {{site.time | date: '%Y'}}</p>
+          </div>
+          <div class="footer-social">
+            <ul class="list-reset">
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
+              {% else %} {% endif %}
+
+              <li><a href="https://ascarlson.art/">Portfolio</a></li>
+
+              {% if site.instagram %}
+              <li><a href="{{ site.instagram }}">Instagram</a></li>
+              {% else %} {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /.footer -->
