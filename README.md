@@ -11,7 +11,6 @@ Posts, images, and other content in both the `_posts` and `img` folders are copy
 *   [FitVids.js](http://fitvidsjs.com/)
 *   [jQuery.com](https://jquery.com/)
 *   [Wait For Images](https://github.com/alexanderdickson/waitForImages)
-*   Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
 
 ### Posts
 
